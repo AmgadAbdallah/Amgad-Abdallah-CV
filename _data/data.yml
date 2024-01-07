@@ -248,12 +248,8 @@ publication:
       authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
       conference: Manuscript submitted for publication
       link:
+
       
-   - title: A New Graph-Based Reinforcement Learning Environment for Targeted Molecular Generation and Optimization
-      authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
-      conference: ICSIE 2023
-      link: 'https://www.researchgate.net/publication/373946887_A_New_Graph-Based_Reinforcement_Learning_Environment_for_Targeted_Molecular_Generation_and_Optimization'
-  
 award:
   show: false
   order: 8
