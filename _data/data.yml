@@ -10,7 +10,8 @@ contact:
   location: Cairo, Egypt # location
   email: amgadphys@gmail.com    # email address
   phone: +201220567001 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-
+  #web
+  
   gender:                  # gender or pronoun
   birthday:                # birthday
   nationality:             # nationality
@@ -39,9 +40,9 @@ contact:
 
   # academic
   googlescholar:           # username          | https://scholar.google.com/citations?user=username
-  researchgate:            # username          | https://www.researchgate.net/profile/username
+  researchgate: https://www.researchgate.net/profile/Amgad-Abdallah-2            # username          | https://www.researchgate.net/profile/username
   kaggle:                  # username          | https://www.kaggle.com/username
-  orcid:                   # id                | https://orcid.org/id
+  orcid: https://orcid.org/0009-0002-4151-4588                     # id                | https://orcid.org/id
   figshare:                # name/id           | https://figshare.com/authors/name/id
 
   # writer
@@ -58,7 +59,7 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
+  linkedin: https://www.linkedin.com/in/amgad-abdallah-985626194/                   # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
@@ -82,39 +83,52 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    My research interests span the interdisciplinary landscape of computational science and artificial intelligence, encompassing geometric deep learning, deep reinforcement learning, computational physics, computational chemistry and biomedical informatics.
+    My Skills and expertise can be summarized in: Machine Learning, Geometric deep learning, Graph Τheory, Biomedical Informatics, Cheminformatics, Computational Physics, Deep Reinforcement Learning, and Quantum Machine Learning.
 
 experience:
   show: true
   order: 2
   title: Experiences
   description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
-
+      
   items:
-    - company: Second Company
-      link: '#'
+    - company: The British University in Egypt
       tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
+      date: Feb 2023 – present
+      role: Teaching Assistant
+      location: Cairo, Egypt
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+       + Preparing labs and teaching AI and CS related courses such as Deep Learning, Data Science, OOP, and more.
+       + Involved in research group interested in computational physics, Graph Neural Networks, Deep Reinforcement Learning, Generative AI, and Quantum computing. 
 
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+    - company: Motiftech.ai
+      tags: Contract
+      date: June 2022 – present
+      role: Machine Learning and Graph Algorithms Engineer
+      location: Cairo, Egypt
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        + Applying Graph algorithms in analog circuit design.
+        + Applying Graph Neural Networks in analog circuit design.
+        
+    - company: New Giza University
+      tags: Full-time
+      date: September 2021 – October 2022
+      role: Teaching Assistant
+      location: Cairo, Egypt
+      description: |
+        + Developing and designing interactive Labs, Assignments and quizzes for Data science, programming, and AI courses.
+        + Involved in a research group, interested in Machine Learning with graphs, Deep learning, and Deep Reinforcement Learning.
+                
+    - company: Merck Sharp & Dohme (MSD)
+      tags: Full-time
+      date: Aug 2020 – September 2021
+      role: Data Scientist
+      location: Cairo, Egypt
+      description: |
+        + Designing and Building Data Science projects to develop and deliver data driven use-cases.
+        + Designing, building, and optimizing Machine and Deep Learning models mainly for Time Series and demand forecasting.
+        + Representing and communicating the results.
 
 project:
   show: true
