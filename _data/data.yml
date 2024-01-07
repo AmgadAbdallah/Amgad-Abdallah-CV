@@ -154,7 +154,7 @@ project:
         + Second
 
 skill:
-  show: false
+  show: true
   order: 4
   title: Skills
   description: |
