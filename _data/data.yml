@@ -78,10 +78,10 @@ contact:
   goodreads:               # username          | https://www.goodreads.com/user/show/username
   strava:                  # useid             | https://www.strava.com/athletes/userid
 
-About:
+profile:
   show: true
   order: 1
-  title: Profile
+  title: About
   description: |
     My research interests span the interdisciplinary landscape of computational science and artificial intelligence, encompassing geometric deep learning, deep reinforcement learning, computational physics, computational chemistry and biomedical informatics.
 experience:
