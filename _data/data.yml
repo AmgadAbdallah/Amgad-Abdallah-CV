@@ -264,26 +264,32 @@ publication:
   order: 7
   title: Publications
   description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
-
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
-
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
-
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
-
+    
   items:
-    - title: Example Publication in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: '#'
-    - title: The Art of Example Publication
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
-
+    - title: A New Graph-Based Reinforcement Learning Environment for Targeted Molecular Generation and Optimization
+      authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
+      conference: ICSIE 2023
+      link: https://www.researchgate.net/publication/373946887_A_New_Graph-Based_Reinforcement_Learning_Environment_for_Targeted_Molecular_Generation_and_Optimization
+      rewards: Awarded as the best paper, and best oral presentation
+      year: 2023
+      
+    - title: Geom-SAC: Geometric multidiscrete soft actor critic with applications in de novo drug design
+      authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
+      conference: Manuscript submitted for publication
+      year: 2023
+      
+    - title: 3D molecular generation using deep learning approaches: A review on theory and experiment
+      authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
+      conference: Manuscript submitted for publication
+      year: 2023
+      
+    - title: Leverage data security policies complexity for users: an end-to-end storage service management in the Cloud based on ABAC attributes
+      authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
+      conference: 6th International Conference on Machine Learning for Networking (MLN'2023)
+      link: https://www.researchgate.net/publication/375824938_Leverage_data_security_policies_complexity_for_users_an_end-to-end_storage_service_management_in_the_Cloud_based_on_ABAC_attributes
+      year: 2023
 award:
-  show: true
+  show: false
   order: 8
   title: Awards
   description: |
@@ -308,7 +314,7 @@ award:
         It's my Example Awared Two by Example.
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
   description: |
@@ -332,7 +338,7 @@ patent:
     + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
 
 organization:
-  show: true
+  show: false
   order: 10
   title: Organizations
   description: |
@@ -347,18 +353,15 @@ language:
   order: 11
   title: Languages
   description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
-
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
-
+    
   items:
-    - idiom: Chinese
+    - idiom: Arabic
       level: Native
     - idiom: English
       level: Professional
 
 interest:
-  show: true
+  show: false
   order: 12
   title: Interests
   description: |
@@ -375,7 +378,7 @@ interest:
       link:
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: Self-evaluation
   description: |
@@ -386,7 +389,7 @@ evaluation:
     A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
 
 reference:
-  show: true
+  show: false
   order: 14
   title: References
   description: |
