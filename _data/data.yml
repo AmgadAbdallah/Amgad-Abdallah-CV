@@ -78,7 +78,7 @@ contact:
   goodreads:               # username          | https://www.goodreads.com/user/show/username
   strava:                  # useid             | https://www.strava.com/athletes/userid
 
-profile:
+About:
   show: true
   order: 1
   title: Profile
