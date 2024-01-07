@@ -129,7 +129,7 @@ experience:
         + Representing and communicating the results.
 
 project:
-  show: true
+  show: false
   order: 3
   title: Projects
   description: |
@@ -159,7 +159,7 @@ project:
         + Second
 
 skill:
-  show: true
+  show: false
   order: 4
   title: Skills
   description: |
@@ -218,28 +218,22 @@ education:
     In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    - institution: Example University
-      link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
+    - institution: Cairo University
+      link: 
+      date: 2021 - 2024
+      major: Data Science
       degree: Master
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        During my MSc. research journey, I have developed a tool for designing/discovering novel drug candidate molecules using AI (Graph Neural Networks, and Deep Reinforcement Learning) by developing an extension for the soft-actor-critic alogorthm to operate on molecular graphs, and to handle multi-discrete action space.
+        Also, I have produce three high impacted papers.
 
-    - institution: Example University
-      link:
-      date: 2011 - 2015
-      major: Computer Science
+    - institution: Helwan University
+      date: 2016 - 2020
+      major: Business Information System
       degree: Bachelor
-      description: |
-        Additional information for this institution.
-        + First
-        + Second
 
 certificate:
-  show: true
+  show: false
   order: 6
   title: Certificates
   description: |
