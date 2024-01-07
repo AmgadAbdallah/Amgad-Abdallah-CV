@@ -248,6 +248,18 @@ publication:
       authors: Foo Bar
       conference: Foobar, 2019
       link: '#'
+    - title: Example Publication in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: '#'
+    - title: Example Publication in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: '#'
+    - title: Example Publication in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: '#'
 
       
 award:
