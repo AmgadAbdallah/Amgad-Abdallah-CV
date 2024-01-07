@@ -242,20 +242,24 @@ publication:
   order: 7
   title: Publications
   description: |
-    
+    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
+
+    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
+
+    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
+
+    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
+
   items:
-    - title: A New Graph-Based Reinforcement Learning Environment for Targeted Molecular Generation and Optimization
-      authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
-      conference: ICSIE 2023
-    - title: Geom-SAC: Geometric multidiscrete soft actor critic with applications in de novo drug design
-      authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
-      conference: Manuscript submitted for publication
-    - title: 3D molecular generation using deep learning approaches: A review on theory and experiment
-      authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
-      conference: Manuscript submitted for publication
-    - title: Leverage data security policies complexity for users: an end-to-end storage service management in the Cloud based on ABAC attributes
-      authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
-      conference: 6th International Conference on Machine Learning for Networking (MLN'2023)
+    - title: asdasdasdda
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: '#'
+    - title: The Art of Example Publication
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link:
+      
 award:
   show: false
   order: 8
