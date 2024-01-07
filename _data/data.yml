@@ -244,9 +244,9 @@ publication:
   description: |
      s
   items:
-   - title: GeomSAC Geometric multidiscrete soft actor critic with applications in de novo drug design
-      authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
-      conference: Manuscript submitted for publication
+    - title: Example Publication in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
       link: '#'
 
       
