@@ -3,7 +3,7 @@ basic:
   title: AI Researcher           # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    path: /assets/images/Amgad.jfif # avatar file path
 
 contact:
   # meta
