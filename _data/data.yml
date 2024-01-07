@@ -248,17 +248,17 @@ publication:
       authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
       conference: Manuscript submitted for publication
       link:
-    - title: A New Graph-Based Reinforcement Learning Environment for Targeted Molecular Generation and Optimization
+   - title: A New Graph-Based Reinforcement Learning Environment for Targeted Molecular Generation and Optimization
       authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
       conference: ICSIE 2023
       link: 'https://www.researchgate.net/publication/373946887_A_New_Graph-Based_Reinforcement_Learning_Environment_for_Targeted_Molecular_Generation_and_Optimization'
-    - title: 3D molecular generation using deep learning approaches A review on theory and experiment
+   - title: 3D molecular generation using deep learning approaches A review on theory and experiment
       authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
       conference: Manuscript submitted for publication
       link:
-    - title: Leverage data security policies complexity for users an end-to-end storage service management in the Cloud based on ABAC attributes
+   - title: Leverage data security policies complexity for users an end to end storage service management in the Cloud based on ABAC attributes
       authors: Abdallah, Amgad & Alyan, Nada & Elkerdawy, Ahmed & TANABE, SHIHORI & Andres, Frederic & Pester, Andreas & Ali, Hesham
-      conference: 6th International Conference on Machine Learning for Networking (MLN'2023)
+      conference: 6th International Conference on Machine Learning for Networking (MLN 2023)
       link: 'https://www.researchgate.net/publication/375824938_Leverage_data_security_policies_complexity_for_users_an_end-to-end_storage_service_management_in_the_Cloud_based_on_ABAC_attributes'
 award:
   show: false
